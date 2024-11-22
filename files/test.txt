@@ -1,0 +1,7 @@
+I really enjoy learning Python. So far I learned about:
+- variables
+- data types
+- control flow structures
+- files
+- classes
+- functions
